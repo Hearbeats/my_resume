@@ -13,6 +13,7 @@
 * 工作年限: 1年
 * Github: [mHeartbeats](https://github.com/mHeartbeats)
 * 期望职位: python程序员 web前端程序员
+* 期望薪资: 面议
 * 期望城市: 南昌
 
 ## ✻ 工作经历
