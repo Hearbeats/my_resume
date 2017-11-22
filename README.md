@@ -22,36 +22,63 @@
 
 #### 南昌玄鉴文化传播有限公司网站（电脑＋微信）
 
->[演示地址](http://www.google.com/)
-> [项目地址](http://www.google.com/)
+>[在线地址](###)
+>[项目地址](http://www.google.com/)
 
- 独立完成整个项目，项目前台包括pc端和微信端，以及项目后台管理系统。项目核心内容包括: 文章发布，会员功能，论坛功能，在线商城，用户管理。
+ 独立完成整个项目，项目前台包括pc端和微信端，以及项目后台管理系统。项目核心内容包括: 文章发布，会员功能，论坛功能，在线商城，用户管理。项目前台pc页面采用html+less+jQuery开发，微信端使用flex混合兼容布局。后台使用flask框架，数据库mysql。
 
 #### 化妆品不良反应调查管理系统（pc＋微信）
 
->[演示地址](http://www.google.com/)
-> [项目地址](http://www.google.com/)
+>[在线地址](http://red.079l.com/)
+>[项目地址](http://www.google.com/)
 
-#### 药物质量报告管理系统（pc＋移动）
+该项目主要是刚进公司初次接触到python以及flask框架，完成的第一个项目。主要是结合微信公众号()，化妆品使用者可以填报自己不良反应信息，并作出统计分析，导出数据。后端使用了基于bootstrap的AdminLTE框架。
 
->[演示地址](http://www.google.com/)
-> [项目地址](http://www.google.com/)
+#### 药物质量公共管理系统（pc＋移动）
+
+>[项目地址](http://www.google.com/)
+
+项目主要是对全国各地的药物质量公告加以整合，加以分析展示，目前实现了通过Excel导入，后期将加上爬虫，实时动态更新数据，自动化导入系统。
 
 ### 山东泰顾网络科技有限公司 (2016年8月 ~ 2017年2月)
 
 #### 宁夏监狱管理局门户网站（pc）
 
->[演示地址](http://www.google.com/)
-> [项目地址](http://www.google.com/)
+>[在线地址](http://www.nxjyw.gov.cn/)
+
+宁夏监狱管理局网站以及下属的五个监狱门户网站，从设计到页面制作以及与后台的交互，第一次独立完成项目。本来还有移动端的目前看不到了。
+
+## ✻ 业余项目
 
 ## ✻ 技能清单
 
 * Web开发：Python/Javascript/Node
+
+>python面向对象编程，很好地使用扩展。熟练使用原生js，做过node全栈开发。
+
 * Web框架：flask/django
-* 前端框架：Jquery/Bootstrap/Vue/Mui
-* 前端工具：Bower/Gulp/SaSS/LeSS/Webpack
+
+>熟练使用flask和django完成web项目开发。
+
+* 前端框架：jQuery/Bootstrap/Vue/Mui/Weiui
+
+>最常用得到是jQuery和bootstrap，使用Vue做过个人项目。
+
+* 前端工具：Npm/Gulp/SaSS/LeSS/Webpack
+
+>对于前端工作除了这几个比较常用，其他也使用过。
+
 * 数据库相关：MySQL/PgSQL/SQLite
+
+>调试的时候习惯使用SQLite，mysql比较熟练。
+
 * 版本管理: Git/Github/Svn
+
+>超级喜欢Github，能够熟练使用git命令。
+
+* 页面设计: Ps
+
+>做前端审美水平还是有一点的，一般的图片都是自己处理的。
 
 ## ✻ 所获奖励
 
