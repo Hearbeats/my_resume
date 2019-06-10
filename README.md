@@ -12,7 +12,7 @@
 * 本科/山东交通学院
 * 工作年限: 1年以上
 * Github: [mHeartbeats](https://github.com/mHeartbeats)
-* 期望职位: python程序员 web前端程序员
+* 期望职位: Web前端/JAVA后端开发
 * 期望薪资: 面议
 * 期望城市: 南昌
 
